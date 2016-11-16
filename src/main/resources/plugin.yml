@@ -1,0 +1,6 @@
+name: GLAutoCrops
+version: 1.0.0
+discription: GrassNoRecipeCraft
+author: ecilavip
+
+main: life.grass.grasstest.GrassTest
