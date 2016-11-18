@@ -1,6 +1,6 @@
-name: GLAutoCrops
+name: GLAutoFarmer
 version: 1.0.0
-discription: GrassNoRecipeCraft
+discription: AutoFarming
 author: ecilavip
 
-main: life.grass.grasstest.GrassTest
+main: life.grass.grasstest.GLAutoFarmer

@@ -1,4 +1,4 @@
-package life.grass.grasstest;
+package life.grass.glautofarmer;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -13,7 +13,7 @@ import org.bukkit.event.block.BlockBreakEvent;
 import org.bukkit.inventory.ItemStack;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public class GrassTest extends JavaPlugin implements Listener {
+public class GLAutoFarmer extends JavaPlugin implements Listener {
     static Map<Material, Material> crops;
     
     @Override
